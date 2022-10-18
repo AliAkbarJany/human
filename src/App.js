@@ -6,8 +6,9 @@ import Navbar from './Shared/Navbar/Navbar';
 function App() {
   return (
     <div className="App">
-      <h2>hello rafsan</h2>
+      
       <Navbar></Navbar>
+      <h2>rafsan barnch</h2>
       <Routes>
         <Route></Route>
       </Routes>
