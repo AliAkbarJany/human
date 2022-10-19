@@ -7,17 +7,15 @@ function App() {
   return (
     <div className="App">
       <h2>hello rafsan</h2>
-<<<<<<< HEAD
+      
+      
       <p>collaborator</p>
       <p>collaborator</p>
       <p>collaborator</p>
       <p>collaborator</p>
-=======
-      <h3>Hello anupam</h3>
-      <em>We can do it 😶‍🌫️ 😷</em>
->>>>>>> f3994a2b555676f9e3bda78fc070a71038c93a78
       <Navbar></Navbar>
       <h2>rafsan barnch</h2>
+      <p>i am aliakbar31195</p>
       <Routes>
         <Route></Route>
       </Routes>
